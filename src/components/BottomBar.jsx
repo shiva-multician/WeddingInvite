@@ -154,4 +154,4 @@ const menuItems = [
 //   // );
 // };
 
-// export default BottomBar;
+export default BottomBar;
